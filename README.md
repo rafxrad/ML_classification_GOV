@@ -29,16 +29,15 @@ Instale as bibliotecas necessárias com:
 !pip install -q pandas numpy scikit-learn matplotlib seaborn
 ```
 
-```
+
 
 ### Carregar os Dados
 Carregue os dados diretamente do Google Drive:
 ```python
 import pandas as pd
 
-file_path = '/content/drive/MyDrive/dataset_.csv'  # Ajuste o caminho para onde você colocou o arquivo do dataset no seu drive
- df = pd.read_csv(file_path)
-df.head()
+# Ajuste o caminho para onde você colocou o arquivo do dataset no seu drive
+data = pd.read_csv('/content/drive/MyDrive/dataset_tcc.csv')
 ```
 
 
