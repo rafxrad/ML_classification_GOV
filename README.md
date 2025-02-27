@@ -1,7 +1,5 @@
 # ML_classification_GOV
 
-# Uso do Google Colab para Classificação de Informações Sigilosas
-
 Este documento orienta a utilização do Google Colab para rodar o modelo de aprendizado de máquina desenvolvido neste trabalho.
 
 ## 📌 Requisitos
